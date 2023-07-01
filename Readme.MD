@@ -17,3 +17,12 @@ This project serves as a demonstration of creating a React application manually,
 
 - Node.js (version X.X.X)
 - npm (version X.X.X)
+
+### Functionality
+
+Create a tic-tac-toe game that:
+
+- Lets you play tic-tac-toe,
+- Indicates when a player has won the game,
+- Stores a game’s history as a game progresses,
+- Allows players to review a game’s history and see previous versions of a game’s board.
