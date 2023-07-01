@@ -26,3 +26,5 @@ Create a tic-tac-toe game that:
 - Indicates when a player has won the game,
 - Stores a game’s history as a game progresses,
 - Allows players to review a game’s history and see previous versions of a game’s board.
+- Implement a toggle button to enable sorting of moves in ascending or descending order
+- Highlight the three squares responsible for a winning move when a player wins.
